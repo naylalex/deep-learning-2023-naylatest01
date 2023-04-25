@@ -34,3 +34,6 @@
 
 ## Anexos
 [Anexos Deep Learning](Anexos.ipynb)
+
+## Asignaciones
+Asignación 1 - Actualizar README.md
